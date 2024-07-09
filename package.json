@@ -1,0 +1,13 @@
+{
+  "name": "twelve-minutes-clock-screensaver",
+  "version": "1.0.0",
+  "description": "An Electron screensaver based on the clock from the game Twelve Minutes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.1.0",
+    "electron-packager": "^17.1.2"
+  }
+}
